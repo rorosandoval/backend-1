@@ -101,3 +101,4 @@ Respuesta ejemplo:
 - Los productos y carritos se almacenan en archivos JSON limpios: `products.json` y `carts.json`.  
 - Estructura del carrito: cada carrito tiene un `id` y un array `products` con objetos `{ product: ID, quantity: cantidad }`.
 
+#### Rodrigo Sandoval - 2025
